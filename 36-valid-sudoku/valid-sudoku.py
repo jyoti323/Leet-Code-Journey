@@ -13,7 +13,7 @@ class Solution:
                 if num == ".":
                     continue
 
-                #
+                
                 box = (r // 3) * 3 + (c // 3)
 
                 if num in rows[r]:
