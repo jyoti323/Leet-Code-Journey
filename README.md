@@ -50,19 +50,7 @@ I am documenting my progress as I learn **Data Structures and Algorithms (DSA)**
 * 2D Dynamic Programming
 * Optimization Problems
 
-📈 Progress Tracker
 
-| Topic               | Problems Solved |
-| ------------------- | --------------: |
-| Arrays              |               0 |
-| Hashing             |               0 |
-| Strings             |               0 |
-| Linked List         |               0 |
-| Stack               |               0 |
-| Queue               |               0 |
-| Trees               |               0 |
-| Graphs              |               0 |
-| Dynamic Programming |               0 |
 
 ## 🗂️ Repository Structure
 
